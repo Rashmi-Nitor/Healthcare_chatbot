@@ -1,0 +1,10 @@
+# Person 2 (backend/frontend) deps — merge with requirements-rag.txt
+
+-r requirements-rag.txt
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+streamlit==1.38.0
+SQLAlchemy==2.0.35
+pydantic==2.9.2
+requests==2.32.3
+python-dotenv==1.0.1
