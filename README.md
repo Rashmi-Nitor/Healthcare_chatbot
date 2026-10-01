@@ -33,6 +33,7 @@ pytest tests/ -v
 
 # Run the backend:
 uvicorn app.main:app --reload
+python -m uvicorn main:app --reload
 
 # In a second terminal, run the frontend:
 streamlit run frontend/streamlit_app.py
