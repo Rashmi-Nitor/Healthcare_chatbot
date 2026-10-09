@@ -19,3 +19,5 @@ pytesseract>=0.3.13
 Pillow>=10.0.0
 docx2txt>=0.8
 python-dotenv>=1.0.0
+
+ddgs>=9.0.0
