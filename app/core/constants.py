@@ -47,6 +47,7 @@ OPENROUTER_BASE_URL = "https://openrouter.ai/api/v1"
 OPENROUTER_MODEL_NAME_DEFAULT = "google/gemini-2.0-flash-001"
 LLM_TEMPERATURE = 0.2
 LLM_MAX_OUTPUT_TOKENS = 900
+WEB_SEARCH_MAX_RESULTS = 5
 
 # ---------------------------------------------------------------------------
 # Guardrail response strings
